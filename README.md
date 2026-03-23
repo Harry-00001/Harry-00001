@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harry 👋<br><br>🚀 Currently learning AI/ML<br>📚 Always excited to explore and learn new technologies<br>🤝 Love connecting with people <br>I’m an introverted coder who’s always learning something new<br> 
+Hi, I'm Harry 👋<br><br>🚀 Currently learning about AI/ML<br>📚 Always excited to explore and learn new technologies<br>🤝 Love connecting with people <br><br> 
 
 
 ## 🌐 Socials:
